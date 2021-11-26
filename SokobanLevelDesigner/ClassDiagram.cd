@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SokobanLevelDesigner.EditorController">
+    <Position X="1.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAEAgAQAABAgAAAAQAAEAAIAAAAACAAEAAAAAA=</HashCode>
+      <FileName>EditorClasses\EditorController.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="_view" />
+      <Field Name="_level" />
+      <Field Name="_createdLevel" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="SokobanLevelDesigner.ConsoleView" BaseTypeListCollapsed="true">
+    <Position X="6.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAACAAAAAAAAAAAQAgAAAACAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Views\ConsoleView.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="SokobanLevelDesigner.Level">
+    <Position X="6.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AUggAAgIAAGAAAFAAAAAAAIAABAhAAAAAAgAAAAAQAA=</HashCode>
+      <FileName>EditorClasses\Level.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="SokobanLevelDesigner.ILevel">
+    <Position X="4.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AUggAAgIAAEAAAFAAAAAAAIAAAABAAAAAAgAAAAAQAA=</HashCode>
+      <FileName>Interfaces\ILevel.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="SokobanLevelDesigner.IView">
+    <Position X="4.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAACAAAAAAAAAAAQAgAAAACAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\IView.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="SokobanLevelDesigner.Part">
+    <Position X="8.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAEAAAAAAAAAQAAAAIAAAAAAAAAAAQAAAAACQAAAAA=</HashCode>
+      <FileName>EditorClasses\Parts.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

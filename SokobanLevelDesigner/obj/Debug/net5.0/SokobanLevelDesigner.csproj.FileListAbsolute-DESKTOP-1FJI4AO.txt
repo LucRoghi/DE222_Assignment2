@@ -1,0 +1,16 @@
+C:\Users\icecr\Desktop\OneDrive - Ara Institute of Canterbury\Synced\2021_S2\DE222\Assignment1\SokobanLevelDesigner\SokobanLevelDesigner\bin\Debug\net5.0\SokobanLevelDesigner.exe
+C:\Users\icecr\Desktop\OneDrive - Ara Institute of Canterbury\Synced\2021_S2\DE222\Assignment1\SokobanLevelDesigner\SokobanLevelDesigner\bin\Debug\net5.0\SokobanLevelDesigner.deps.json
+C:\Users\icecr\Desktop\OneDrive - Ara Institute of Canterbury\Synced\2021_S2\DE222\Assignment1\SokobanLevelDesigner\SokobanLevelDesigner\bin\Debug\net5.0\SokobanLevelDesigner.runtimeconfig.json
+C:\Users\icecr\Desktop\OneDrive - Ara Institute of Canterbury\Synced\2021_S2\DE222\Assignment1\SokobanLevelDesigner\SokobanLevelDesigner\bin\Debug\net5.0\SokobanLevelDesigner.runtimeconfig.dev.json
+C:\Users\icecr\Desktop\OneDrive - Ara Institute of Canterbury\Synced\2021_S2\DE222\Assignment1\SokobanLevelDesigner\SokobanLevelDesigner\bin\Debug\net5.0\SokobanLevelDesigner.dll
+C:\Users\icecr\Desktop\OneDrive - Ara Institute of Canterbury\Synced\2021_S2\DE222\Assignment1\SokobanLevelDesigner\SokobanLevelDesigner\bin\Debug\net5.0\ref\SokobanLevelDesigner.dll
+C:\Users\icecr\Desktop\OneDrive - Ara Institute of Canterbury\Synced\2021_S2\DE222\Assignment1\SokobanLevelDesigner\SokobanLevelDesigner\bin\Debug\net5.0\SokobanLevelDesigner.pdb
+C:\Users\icecr\Desktop\OneDrive - Ara Institute of Canterbury\Synced\2021_S2\DE222\Assignment1\SokobanLevelDesigner\SokobanLevelDesigner\obj\Debug\net5.0\SokobanLevelDesigner.csprojAssemblyReference.cache
+C:\Users\icecr\Desktop\OneDrive - Ara Institute of Canterbury\Synced\2021_S2\DE222\Assignment1\SokobanLevelDesigner\SokobanLevelDesigner\obj\Debug\net5.0\SokobanLevelDesigner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\icecr\Desktop\OneDrive - Ara Institute of Canterbury\Synced\2021_S2\DE222\Assignment1\SokobanLevelDesigner\SokobanLevelDesigner\obj\Debug\net5.0\SokobanLevelDesigner.AssemblyInfoInputs.cache
+C:\Users\icecr\Desktop\OneDrive - Ara Institute of Canterbury\Synced\2021_S2\DE222\Assignment1\SokobanLevelDesigner\SokobanLevelDesigner\obj\Debug\net5.0\SokobanLevelDesigner.AssemblyInfo.cs
+C:\Users\icecr\Desktop\OneDrive - Ara Institute of Canterbury\Synced\2021_S2\DE222\Assignment1\SokobanLevelDesigner\SokobanLevelDesigner\obj\Debug\net5.0\SokobanLevelDesigner.csproj.CoreCompileInputs.cache
+C:\Users\icecr\Desktop\OneDrive - Ara Institute of Canterbury\Synced\2021_S2\DE222\Assignment1\SokobanLevelDesigner\SokobanLevelDesigner\obj\Debug\net5.0\SokobanLevelDesigner.dll
+C:\Users\icecr\Desktop\OneDrive - Ara Institute of Canterbury\Synced\2021_S2\DE222\Assignment1\SokobanLevelDesigner\SokobanLevelDesigner\obj\Debug\net5.0\ref\SokobanLevelDesigner.dll
+C:\Users\icecr\Desktop\OneDrive - Ara Institute of Canterbury\Synced\2021_S2\DE222\Assignment1\SokobanLevelDesigner\SokobanLevelDesigner\obj\Debug\net5.0\SokobanLevelDesigner.pdb
+C:\Users\icecr\Desktop\OneDrive - Ara Institute of Canterbury\Synced\2021_S2\DE222\Assignment1\SokobanLevelDesigner\SokobanLevelDesigner\obj\Debug\net5.0\SokobanLevelDesigner.genruntimeconfig.cache
